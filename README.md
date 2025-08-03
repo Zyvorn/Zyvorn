@@ -4,13 +4,13 @@ I'm Amr, a passionate Front-End Developer focused on crafting fast, clean, and r
 
 ## 🚀 Featured Projects
 
-🔹 [Dr.Sohila-Emad](https://github.com/Zyvorn/Dr.Sohila-Emad)  
+🔹 [Dr.Sohila-Emad](https://zyvorn.github.io/Dr.Sohila-Emad/)  
 A responsive and elegant personal website for a medical professional, featuring services, profile details, and modern UI design.
 
-🔹 [AmrStore](https://github.com/Zyvorn/AmrStore)  
+🔹 [AmrStore](https://zyvorn.github.io/AmrStore/)  
 A clean and fully responsive front-end template for an online store. Includes product listings, categories, and a modular layout perfect for eCommerce platforms.
 
-🔹 [ShahdMedhat](https://github.com/Zyvorn/ShahdMedhat)  
+🔹 [ShahdMedhat](https://zyvorn.github.io/ShahdMedhat/)  
 A sleek medical portfolio site with structured content, contact information, and a mobile-friendly layout tailored for healthcare professionals.
 
 ## 🛠️ Tech Stack
